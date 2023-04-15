@@ -44,7 +44,7 @@ Khulna University, Khulna, Bangladesh
 
 ***
 
-## Video Description :
+## Link :
 
 GitHub :  https://github.com/musfikurrahman24/CSEKU_SDP_2023_Flappy-Bird-Windows-Game
 
