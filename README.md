@@ -41,6 +41,12 @@ Khulna University, Khulna, Bangladesh
 	The game is simple in concept, but challenging in practice, as the player must keep the bird flying by tapping the screen or pressing a key. 
 	Each successful pass through a set of pipes results in the player gaining a point, and the game ends if the bird hits a pipe or the ground. 
 	The game's addictive nature and simple, yet challenging gameplay have made it a popular choice among casual gamers.
+	
+
+***
+## Game Demo:
+
+![flappy](https://media.giphy.com/media/FWUDQFPYtqRpzACX5t/giphy.gif)
 
 ***
 
