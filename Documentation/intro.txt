@@ -1,0 +1,1 @@
+Flappy Bird was a popular side-scrolling mobile game first released on 24th May 2013 and became a sensation overnight in early 2014. It was removed from App Store and Google Play due to addiction concerns. So, to play Flappy Bird on a Windows environment, we create this software. We use C++ and SFML for simplistic and user-friendly design. 
